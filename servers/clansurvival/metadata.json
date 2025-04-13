@@ -1,12 +1,11 @@
 {
-    "id": "chorus",
-    "name": "Chorus",
+    "id": "clansurvival",
+    "name": "ClanSurvival",
     "website": "https://chorus.hu/",
     "addresses": [
-        "chorus.hu",
-        "chorus.wtf"
+        "clansurvival.hu"
     ],
-    "primaryAddress": "play.chorus.hu",
+    "primaryAddress": "play.clansurvival.hu",
     "primaryColor": "#d276ff",
     "secondaryColor": "#d276ff",
     "minecraftVersions": [
@@ -19,7 +18,6 @@
         "EU"
     ],
     "gameTypes": [
-        "Skyblock",
         "Survival"
     ],
     "socials": {
