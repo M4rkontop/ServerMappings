@@ -1,0 +1,26 @@
+{
+    "id": "capysmp",
+    "name": "CapySMP",
+    "website": "https://capysmp.hu/",
+    "addresses": [
+        "capysmp.hu"
+    ],
+    "primaryAddress": "play.capysmp.hu",
+    "primaryColor": "#d276ff",
+    "secondaryColor": "#d276ff",
+    "minecraftVersions": [
+        "1.21.6"
+    ],
+    "primaryMinecraftVersion": "1.21.6",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/e6KPCY7M7w"
+    }
+}
